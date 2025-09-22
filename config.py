@@ -24,7 +24,7 @@ ASSUSERNAME = "@Eren_playz"
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 30DxNexGenBots107029")
+API_KEY = getenv("API_KEY", "30DxNexGenBots107029")
 
 DURATION_LIMIT_MIN = 500000
 
