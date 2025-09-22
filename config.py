@@ -19,7 +19,7 @@ OWNER_USERNAME = "@eren_aethonix"
 
 BOT_NAME = "˹𝐄𝐫𝐞𝐧 ꭙ 𝐌ᴜsɪᴄ˼™🕊"
 
-ASSUSERNAME = "@erenassistant"
+ASSUSERNAME = "@Eren_playz"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
