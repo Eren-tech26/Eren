@@ -6,7 +6,7 @@ from ..logging import LOGGER
 
 class Devine(Client):
     def __init__(self):
-        LOGGER(__name__).info("Goku Muzic Starting...")
+        LOGGER(__name__).info("Eren Music is Starting...")
         super().__init__(
             name="Devine",
             api_id=config.API_ID,
@@ -38,7 +38,7 @@ class Devine(Client):
             try:
                 # Use the public channel username instead of chat_id
                 await self.send_message(
-                    chat_id="@lodalogszz",
+                    chat_id="@erenlogss",
                     text=(
                         f"<b>{self.mention} ɪs ᴀʟɪᴠᴇ <a href='https://files.catbox.moe/cxcr3n.mp4' target='_blank'>🍃</a></b>\n\n"
                         f"<b>• ʙᴏᴛ ᴠᴇʀsɪᴏɴ :</b> <code>𝟸.𝟷 ʀx</code>\n"
