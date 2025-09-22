@@ -22,8 +22,10 @@ BOT_NAME = "˹𝐄𝐫𝐞𝐧 ꭙ 𝐌ᴜsɪᴄ˼™🕊"
 ASSUSERNAME = "@Eren_playz"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", "30DXNexGenBots107029")
+API_KEY = getenv("API_KEY","30DXNexGenBots107029")
+
 DURATION_LIMIT_MIN = 500000
 DURATION_LIMIT_MIN = 500000
 
